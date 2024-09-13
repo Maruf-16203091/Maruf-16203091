@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maruf-16203091" alt="maruf-16203091" /></a> </p>
 
-- 🔭 I’m currently working on **Hotel Booking System**
+- 🔭 I’m currently working on **Online Quiz Manager**
 
-- 🌱 I’m currently learning **React, Node**
+- 🌱 I’m currently working on **Angular, Php**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Maruf-16203091](https://github.com/Maruf-16203091)
 
