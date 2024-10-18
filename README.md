@@ -1,12 +1,10 @@
 # Hi, I'm Md Maruf Hosen
 
-"A Passionate Full Stack Developer and Problem Solver. Always open to new opportunities and collaborations—feel free to reach out to me at:
+A Passionate Full Stack Developer and Problem Solver. Always open to new opportunities—feel free to reach out to me at:
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crypticmaruf999@gmail.com)](mailto:crypticmaruf999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md.-maruf-hosen/)](https://www.linkedin.com/in/md.-maruf-hosen/)
 [![GitHub](https://img.shields.io/github/followers/maruf-16203091?color=27da6b&logo=github)](https://github.com/maruf-16203091?tab=followers)
-
-
 
 ---
 
@@ -80,15 +78,3 @@
 ![Trophies](https://github-profile-trophy.vercel.app/?username=maruf-16203091&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
-## 🌟 WakaTime Stats
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C481%20hrs%2013%20mins-blue)
-
-```text
-Php                      23 hrs 47 mins      ███████████████████████░░   70.53% 
-JS                       36 hrs 10 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   22.47% 
-HTML                     10 hrs 15 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.65% 
-CSS                      11 hrs 10 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   3.85% 
-Other                    1  hrs 10 mins      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
