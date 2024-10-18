@@ -1,6 +1,41 @@
-[![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://www.linkedin.com/in/md.-maruf-hosen/)
+# Hi, I'm Md Maruf Hosen
+A Full Stack Developer from Germany.
 
-### Languages
+[![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=maruf-16203091.maruf-16203091)](https://github.com/maruf-16203091)
+[![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crypticmaruf999@gmail.com)](mailto:crypticmaruf999@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md.-maruf-hosen/)](https://www.linkedin.com/in/md.-maruf-hosen/)
+[![GitHub](https://img.shields.io/github/followers/maruf-16203091?color=27da6b&logo=github)](https://github.com/maruf-16203091?tab=followers)
+
+[![Coder Gif](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://www.linkedin.com/in/md.-maruf-hosen/)
+
+---
+
+## 🛠️ Tools I Use
+
+<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
+<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
+<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> 
+<a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
+
+---
+
+## ⚙️ Technology Stack
+
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
+<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+
+---
+
+## 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
@@ -10,7 +45,9 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
-### Technologies
+---
+
+## 🌐 Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
@@ -21,17 +58,43 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
-### Full Stack Projects
+---
 
-[![](https://img.shields.io/badge/-🌐%20Online%20Quiz%20Manager-000)](https://github.com/maruf-16203091/Online-Quiz-Manager)
-[![](https://img.shields.io/badge/-📝%20Medium%20Articles-000)](https://medium.com/@crypticmaruf999)
+## 📂 Full Stack Projects
 
-### Cybersecurity Projects
+[![🌐 Online Quiz Manager](https://img.shields.io/badge/-🌐%20Online%20Quiz%20Manager-000)](https://github.com/maruf-16203091/Online-Quiz-Manager)
+[![📝 Medium Articles](https://img.shields.io/badge/-📝%20Medium%20Articles-000)](https://medium.com/@crypticmaruf999)
 
-[![](https://img.shields.io/badge/-🔐%20Security%20Audit-000)](https://github.com/maruf-16203091/Security-Audit)
-[![](https://img.shields.io/badge/-🛡%20Vulnerability%20Assessment-000)](https://github.com/maruf-16203091/Vulnerability-Assessment)
+## 🛡 Cybersecurity Projects
+
+[![🔐 Security Audit](https://img.shields.io/badge/-🔐%20Security%20Audit-000)](https://github.com/maruf-16203091/Security-Audit)
+[![🛡 Vulnerability Assessment](https://img.shields.io/badge/-🛡%20Vulnerability%20Assessment-000)](https://github.com/maruf-16203091/Vulnerability-Assessment)
+
+---
+
+## 📊 Stats
 
 <a href="https://www.linkedin.com/in/md.-maruf-hosen/">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=maruf-16203091&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-16203091&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </a>
+
+---
+
+## 🏆 Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=maruf-16203091&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+## 🌟 WakaTime Stats
+
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C481%20hrs%2013%20mins-blue)
+
+```text
+Python                   23 hrs 47 mins      ███████████████████████░░   94.53% 
+Markdown                 36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.43% 
+HTML                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.04% 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85% 
+Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.5%
