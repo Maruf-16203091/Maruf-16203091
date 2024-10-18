@@ -65,12 +65,6 @@ A Full Stack Developer from Germany.
 [![🌐 Online Quiz Manager](https://img.shields.io/badge/-🌐%20Online%20Quiz%20Manager-000)](https://github.com/maruf-16203091/Online-Quiz-Manager)
 [![📝 Medium Articles](https://img.shields.io/badge/-📝%20Medium%20Articles-000)](https://medium.com/@crypticmaruf999)
 
-## 🛡 Cybersecurity Projects
-
-[![🔐 Security Audit](https://img.shields.io/badge/-🔐%20Security%20Audit-000)](https://github.com/maruf-16203091/Security-Audit)
-[![🛡 Vulnerability Assessment](https://img.shields.io/badge/-🛡%20Vulnerability%20Assessment-000)](https://github.com/maruf-16203091/Vulnerability-Assessment)
-
----
 
 ## 📊 Stats
 
