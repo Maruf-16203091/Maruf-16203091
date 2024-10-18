@@ -1,69 +1,37 @@
-<h1 align="center">Hi 👋, I'm Md Maruf Hosen</h1>
-<h3 align="center">Full Stack Developer | Passionate About Web Technologies</h3>
+[![](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://www.linkedin.com/in/md.-maruf-hosen/)
 
-<!-- Profile View Counter -->
-<p align="center"> 
-    <img src="https://komarev.com/ghpvc/?username=maruf-16203091&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> 
-</p>
+### Languages
 
-<!-- About Section -->
-<p align="center">
-    <img align="center" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" width="400" />
-</p>
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 
----
+### Technologies
 
-<h2 align="center">🔗 Connect With Me</h2>
-<p align="center">
-    <a href="https://linkedin.com/in/md. maruf hosen" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://stackoverflow.com/users/maruf hosen" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/StackOverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
-    </a>
-    <a href="https://medium.com/@crypticmaruf999" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-    </a>
-    <a href="mailto:hosen.maruf711@gmail.com">
-        <img align="center" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-</p>
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 
----
+### Full Stack Projects
 
-<h2 align="center">🛠️ Languages & Tools</h2>
-<p align="center">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+[![](https://img.shields.io/badge/-🌐%20Online%20Quiz%20Manager-000)](https://github.com/maruf-16203091/Online-Quiz-Manager)
+[![](https://img.shields.io/badge/-📝%20Medium%20Articles-000)](https://medium.com/@crypticmaruf999)
 
----
+### Cybersecurity Projects
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=maruf-16203091&show_icons=true&theme=radical" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=maruf-16203091&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-16203091&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+[![](https://img.shields.io/badge/-🔐%20Security%20Audit-000)](https://github.com/maruf-16203091/Security-Audit)
+[![](https://img.shields.io/badge/-🛡%20Vulnerability%20Assessment-000)](https://github.com/maruf-16203091/Vulnerability-Assessment)
 
----
-
-<h2 align="center">🚀 Current Projects</h2>
-<p align="center">
-    🔭 I’m currently working on **Online Quiz Manager**  
-    🌱 I’m learning **Angular & PHP**  
-    📝 I write regularly on [Medium](https://medium.com/@crypticmaruf999)  
-</p>
-
-<p align="center">✨ Fun fact: I once traveled to 10 different cities in one month just to try their signature foods!</p>
+<a href="https://www.linkedin.com/in/md.-maruf-hosen/">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=maruf-16203091&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maruf-16203091&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</a>
