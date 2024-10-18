@@ -66,4 +66,4 @@
     📝 I write regularly on [Medium](https://medium.com/@crypticmaruf999)  
 </p>
 
-<p align="center">✨ Fun fact: I once traveled to 10 different cities in one month just to try their signature foods!</p> here i dont need the images, change the alignment and only keep the main points, design the skills cards and evry other ´cards, give your design i dont need from here, just keep the data from here and give your design 
+<p align="center">✨ Fun fact: I once traveled to 10 different cities in one month just to try their signature foods!</p>
