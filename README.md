@@ -1,6 +1,6 @@
 # Hi, I'm Md Maruf Hosen
 
-A Passionate Full Stack Developer and Problem Solver. Always open to new opportunities—feel free to reach out to me at:
+A Passionate Full Stack Developer and Problem Solver. Always open to new opportunities—feel free to reach out to me at
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:crypticmaruf999@gmail.com)](mailto:crypticmaruf999@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md.-maruf-hosen/)](https://www.linkedin.com/in/md.-maruf-hosen/)
