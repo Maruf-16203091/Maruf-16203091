@@ -6,7 +6,6 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md.-maruf-hosen/)](https://www.linkedin.com/in/md.-maruf-hosen/)
 [![GitHub](https://img.shields.io/github/followers/maruf-16203091?color=27da6b&logo=github)](https://github.com/maruf-16203091?tab=followers)
 
----
 
 ## 🛠️ Tools I Use
 
@@ -45,7 +44,7 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 
 ---
 
-## 🌐 Technologies
+## 🌐 Other Technologies
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
