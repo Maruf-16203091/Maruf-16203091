@@ -60,7 +60,11 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 ## 📂 Full Stack Projects
 
 [![🌐 Online Quiz Manager](https://img.shields.io/badge/-🌐%20Online%20Quiz%20Manager-000)](https://github.com/maruf-16203091/Online-Quiz-Manager)
-[![📝 Medium Articles](https://img.shields.io/badge/-📝%20Medium%20Articles-000)](https://medium.com/@crypticmaruf999)
+[![🏨 Hotel Booking Management System](https://img.shields.io/badge/-🏨%20Hotel%20Booking%20Management%20System-000)](https://github.com/yourusername/hotel-booking-management-system)
+[![🦷 Dental Management System](https://img.shields.io/badge/-🦷%20Dental%20Management%20System-000)](https://github.com/yourusername/dental-management-system)
+[![🎥 Movie Site (Netflix Clone)](https://img.shields.io/badge/-🎥%20Movie%20Site%20(Netflix%20Clone)-000)](https://github.com/yourusername/moviesite-netflix-clone)
+[![📰 Online News Portal](https://img.shields.io/badge/-📰%20Online%20News%20Portal-000)](https://github.com/yourusername/online-news-portal)
+
 
 
 ## 📊 Stats
