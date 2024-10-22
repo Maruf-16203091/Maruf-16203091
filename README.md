@@ -36,6 +36,9 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
@@ -46,9 +49,6 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 
 ## 🌐 Other Technologies
 
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Angular](https://img.shields.io/badge/-Angular-000?&logo=Angular)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
