@@ -6,32 +6,6 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/md.-maruf-hosen/)](https://www.linkedin.com/in/md.-maruf-hosen/)
 [![GitHub](https://img.shields.io/github/followers/maruf-16203091?color=27da6b&logo=github)](https://github.com/maruf-16203091?tab=followers)
 
-
-## 🛠️ Tools I Use
-
-<a href="https://github.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> 
-<a href="https://code.visualstudio.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> 
-<a href="https://obsidian.md/" target="_blank"> <img src="https://obsidian.md/favicon.ico" alt="Obsidian" width="40" height="40"/> </a> 
-<a href="https://www.centos.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" alt="centos" width="40" height="40"/> </a> 
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-<a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/> </a>
-
----
-
-## ⚙️ Technology Stack
-
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-<a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-<a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
-
----
-
 ## 💻 Languages
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
@@ -65,11 +39,8 @@ A Passionate Full Stack Developer and Problem Solver. Always open to new opportu
 [![🎥 Movie Site (Netflix Clone)](https://img.shields.io/badge/-🎥%20Movie%20Site%20(Netflix%20Clone)-000)](https://github.com/yourusername/moviesite-netflix-clone)
 [![📰 Online News Portal](https://img.shields.io/badge/-📰%20Online%20News%20Portal-000)](https://github.com/yourusername/online-news-portal)
 
-
-
 ##  📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Maruf-16203091&theme=tokyonight&border_radius=15&card_width=1000)](https://git.io/streak-stats)
-
 
 ---
 
