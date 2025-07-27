@@ -24,11 +24,24 @@ A passionate Full Stack Developer, Machine Learning Engineer. Feel free to reach
 
 ## 🌐 Other Technologies
 
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-000?&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/-OpenCV-000?&logo=OpenCV)
+![Keras](https://img.shields.io/badge/-Keras-000?&logo=Keras)
+![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas)
+![NumPy](https://img.shields.io/badge/-NumPy-000?&logo=NumPy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-000?&logo=Seaborn)
+![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
+![Google Colab](https://img.shields.io/badge/-Google%20Colab-000?&logo=Google-Colab)
+
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+
 
 ---
 
