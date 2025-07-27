@@ -8,6 +8,7 @@ A Passionate Full Stack Developer and Problem Solver. Feel free to reach out to 
 
 ## 💻 Languages
 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
